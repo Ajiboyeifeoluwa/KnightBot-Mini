@@ -6,7 +6,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-<img src="utils/bot_image.jpg" alt="Knight Bot Mini" width="260">
+<img src="utils/bot_image.jpg" alt="Knight Bot" width="260">
 
 </div>
 
@@ -32,13 +32,13 @@ All commands and the overall structure are written in a way that makes customiza
 
 <div align="center">
 
-<a href="https://github.com/mruniquehacker/Knightbot-Mini/fork" target="_blank">
+<a href="https://github.com/mruniquehacker/Knightbot-MD/fork" target="_blank">
   <img src="https://img.shields.io/badge/Fork%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fork on GitHub">
 </a>
 
 </div>
 
-> This creates your own copy of `Knightbot-Mini` under your GitHub account.
+> This creates your own copy of `Knightbot-MD` under your GitHub account.
 
 ---
 
@@ -82,11 +82,7 @@ Or set it via the `SESSION_ID` environment variable when hosting.
 
 For a full step‑by‑step deployment tutorial (panels / VPS / Heroku), add or update your YouTube guide here:
 
-<div align="center">
-  <a href="https://youtu.be/4PQcn-qqrcE">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
-  </a>
-</div>
+- **YouTube Tutorial:** *(coming soon)*
 
 ---
 
@@ -95,8 +91,8 @@ For a full step‑by‑step deployment tutorial (panels / VPS / Heroku), add or 
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/mruniquehacker/Knightbot-Mini.git
-cd Knightbot-Mini
+git clone https://github.com/mruniquehacker/Knightbot-MD.git
+cd Knightbot-MD
 ```
 
 ### 2️⃣ Install dependencies
@@ -159,27 +155,6 @@ When the bot starts:
 - Other open‑source libraries listed in `package.json`
 
 ---
-
-## ☕ Support Me
-
-<div align="center">
-
-<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
-</a>
-
-</div>
-
-If you find this project helpful and want to support the developer, consider buying me a coffee! Your support helps maintain and improve this open-source project.
-
-<div align="center">
-
-<img src="utils/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200">
-
-</div>
-
----
-
 
 ## ⚠️ Important Warning
 
